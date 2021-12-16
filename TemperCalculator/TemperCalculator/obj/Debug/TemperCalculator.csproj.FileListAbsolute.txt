@@ -1,0 +1,11 @@
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\bin\Debug\TemperCalculator.exe.config
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\bin\Debug\TemperCalculator.exe
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\bin\Debug\TemperCalculator.pdb
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.csproj.AssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.Properties.Resources.resources
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.csproj.GenerateResource.cache
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.exe
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.pdb
+C:\Users\ADmin\Documents\GitHub\helloworld\TemperCalculator\TemperCalculator\obj\Debug\TemperCalculator.Form1.resources
