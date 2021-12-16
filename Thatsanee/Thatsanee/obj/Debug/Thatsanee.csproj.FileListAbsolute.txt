@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\bin\Debug\Thatsanee.exe.config
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\bin\Debug\Thatsanee.exe
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\bin\Debug\Thatsanee.pdb
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.exe
+C:\Users\Lenovo\Documents\GitHub\helloworld\Thatsanee\Thatsanee\obj\Debug\Thatsanee.pdb
